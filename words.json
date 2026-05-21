@@ -1,6 +1,6 @@
 [
   {"english": "apple", "korean": "사과", "category": "basic", "exampleSentence": "I ate a red apple for breakfast.", "exampleKorean": "나는 아침으로 빨간 사과를 먹었다."},
-  {"english": "book", "korean": "책 (아마존의 그 책 말하는거 맞음)", "category": "basic", "exampleSentence": "She is reading an interesting book.", "exampleKorean": "그녀는 흥미로운 책을 읽고 있다."},
+  {"english": "book", "korean": "책 (아마존의 그 책 말하는거 맞음ㅋㅋㅋㅋㅋㅋㅋ)", "category": "basic", "exampleSentence": "She is reading an interesting book.", "exampleKorean": "그녀는 흥미로운 책을 읽고 있다."},
   {"english": "cat", "korean": "고양이", "category": "basic", "exampleSentence": "The cat is sleeping on the sofa.", "exampleKorean": "고양이가 소파 위에서 자고 있다."},
   {"english": "dog", "korean": "개", "category": "basic", "exampleSentence": "My dog barks at strangers.", "exampleKorean": "우리 집 개는 낯선 사람을 보면 짖는다."},
   {"english": "house", "korean": "집", "category": "basic", "exampleSentence": "They live in a big house with a garden.", "exampleKorean": "그들은 정원이 있는 큰 집에 산다."},
@@ -39,4 +39,26 @@
   {"english": "aggregate", "korean": "합계", "category": "toeic900", "exampleSentence": "The aggregate amount was higher than expected.", "exampleKorean": "총 합계 금액이 예상보다 높았다."},
   {"english": "alleviate", "korean": "완화하다", "category": "toeic900", "exampleSentence": "The doctor gave me medicine to alleviate the pain.", "exampleKorean": "의사는 통증을 완화하기 위해 약을 주었다."},
   {"english": "ambivalent", "korean": "양가적인", "category": "toeic900", "exampleSentence": "He has an ambivalent attitude towards his job.", "exampleKorean": "그는 자신의 직업에 대해 양가적인 태도를 가지고 있다."}
-]
+
+ {"english": "arbitrary", "korean": "임의적인", "category": "toeic900", "exampleSentence": "The decision to cancel the project was arbitrary.", "exampleKorean": "프로젝트를 취소하기로 한 결정은 임의적이었다."},
+  {"english": "benchmark", "korean": "기준점", "category": "toeic900", "exampleSentence": "We use last year's sales as a benchmark for this year.", "exampleKorean": "우리는 작년 매출을 올해의 기준점으로 사용한다."},
+  {"english": "collateral", "korean": "담보", "category": "toeic900", "exampleSentence": "He put up his house as collateral for the loan.", "exampleKorean": "그는 대출 담보로 집을 내놓았다."},
+  {"english": "defer", "korean": "미루다", "category": "toeic900", "exampleSentence": "The board decided to defer the decision until next month.", "exampleKorean": "이사회는 결정을 다음 달까지 미루기로 했다."},
+  {"english": "elaborate", "korean": "상세히 설명하다", "category": "toeic900", "exampleSentence": "Could you elaborate on that point?", "exampleKorean": "그 부분에 대해 좀 더 상세히 설명해 주시겠습니까?"},
+  {"english": "feasible", "korean": "실행 가능한", "category": "toeic900", "exampleSentence": "It's not feasible to complete the task by tomorrow.", "exampleKorean": "내일까지 작업을 완료하는 것은 실행 가능하지 않다."},
+  {"english": "incentive", "korean": "혜택", "category": "toeic900", "exampleSentence": "The company offers a performance-based incentive.", "exampleKorean": "회사는 성과 기반의 혜택을 제공한다."},
+  {"english": "mandate", "korean": "권한을 부여하다", "category": "toeic900", "exampleSentence": "The law mandates that all citizens pay taxes.", "exampleKorean": "법은 모든 시민이 세금을 내도록 권한을 부여한다."},
+  {"english": "optimum", "korean": "최적의", "category": "toeic900", "exampleSentence": "The optimum temperature for this plant is 25 degrees.", "exampleKorean": "이 식물에 가장 최적인 온도는 25도이다."},
+  {"english": "redundant", "korean": "불필요한", "category": "toeic900", "exampleSentence": "The new system makes the old one redundant.", "exampleKorean": "새 시스템은 기존의 것을 불필요하게 만든다."},
+
+  {"english": "aesthetic", "korean": "심미적인", "category": "toeic999", "exampleSentence": "The building has a unique aesthetic appeal.", "exampleKorean": "그 건물은 독특한 심미적 매력을 가지고 있다."},
+  {"english": "benevolent", "korean": "자비로운", "category": "toeic999", "exampleSentence": "The organization is known for its benevolent activities.", "exampleKorean": "그 단체는 자비로운 활동으로 잘 알려져 있다."},
+  {"english": "conundrum", "korean": "난제", "category": "toeic999", "exampleSentence": "It's a difficult conundrum that we need to solve.", "exampleKorean": "그것은 우리가 해결해야 할 어려운 난제이다."},
+  {"english": "diligent", "korean": "근면한", "category": "toeic999", "exampleSentence": "He is a diligent worker who never gives up.", "exampleKorean": "그는 절대 포기하지 않는 근면한 일꾼이다."},
+  {"english": "eloquent", "korean": "유창한", "exampleSentence": "She gave an eloquent speech at the conference.", "exampleKorean": "그녀는 컨퍼런스에서 유창한 연설을 했다.", "category": "toeic999"},
+  {"english": "frugal", "korean": "검소한", "category": "toeic999", "exampleSentence": "He leads a frugal lifestyle to save money.", "exampleKorean": "그는 돈을 아끼기 위해 검소한 생활 방식을 유지한다."},
+  {"english": "gregarious", "korean": "사교적인", "category": "toeic999", "exampleSentence": "She is a gregarious person who loves meeting people.", "exampleKorean": "그녀는 사람들을 만나는 것을 좋아하는 사교적인 사람이다."},
+  {"english": "hypothesis", "korean": "가설", "category": "toeic999", "exampleSentence": "The researchers proposed a new hypothesis.", "exampleKorean": "연구원들은 새로운 가설을 제안했다."},
+  {"english": "inevitable", "korean": "불가피한", "category": "toeic999", "exampleSentence": "Changes are inevitable in this fast-paced world.", "exampleKorean": "이 급변하는 세상에서 변화는 불가피하다."},
+  {"english": "paradigm", "korean": "패러다임", "category": "toeic999", "exampleSentence": "The new discovery shifted the entire scientific paradigm.", "exampleKorean": "새로운 발견은 과학적 패러다임 전체를 변화시켰다."}
+]]
