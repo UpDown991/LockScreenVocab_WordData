@@ -1,7 +1,7 @@
 [
   {"english": "apple", "korean": "사과", "category": "basic", "exampleSentence": "I ate a red apple for breakfast.", "exampleKorean": "나는 아침으로 빨간 사과를 먹었다."},
   {"english": "book", "korean": "존의 그 책 말하는거 맞음ㅋㅋㅋㅋㅋㅋㅋ", "category": "basic", "exampleSentence": "She is reading an interesting book.", "exampleKorean": "그녀는 흥미로운 책을 읽고 있다."},
-  {"english": "cat", "korean": "고양이", "category": "basic", "exampleSentence": "The cat is sleeping on the sofa.", "exampleKorean": "고양이가 소파 위에서 자고 있다."},
+  {"english": "cat", "korean": "고양이", "category": "basic", "exampleSentence": "The cat is sleeping on the sofa 냐옹냐옹 테스트.", "exampleKorean": "고양이가 소파 위에서 자고 있다."},
   {"english": "dog", "korean": "개", "category": "basic", "exampleSentence": "My dog barks at strangers.", "exampleKorean": "우리 집 개는 낯선 사람을 보면 짖는다."},
   {"english": "house", "korean": "집", "category": "basic", "exampleSentence": "They live in a big house with a garden.", "exampleKorean": "그들은 정원이 있는 큰 집에 산다."},
   {"english": "water", "korean": "물", "category": "basic", "exampleSentence": "Please give me a glass of water.", "exampleKorean": "물 한 잔만 주세요."},
